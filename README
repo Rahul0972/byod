@@ -1,12 +1,12 @@
 #TYPES OF COMMIT STATES
 
-UNTRAKCED -> a file is called untracked file when it is not added to the staging area 
+a) UNTRAKCED -> a file is called untracked file when it is not added to the staging area 
 
 
-STAGED -> a file is called staged if it is added to the staging area by using "git add <file name>"
+b) STAGED -> a file is called staged if it is added to the staging area by using "git add <file name>" , or all files at once using "git add .".
 
 
-COMMITTED -> a file is commited if it is tracked and the changes done in it are to be stored permanently in a commit using "git commit -m "<commit message>"
+c) COMMITTED -> a file is commited if it is tracked and the changes done in it are to be stored permanently in a commit using "git commit -m "<commit message>"
 
 
 
