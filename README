@@ -1,7 +1,17 @@
-untrakced - a file is called untracked file when it is not added to the staging area 
+UNTRAKCED -> a file is called untracked file when it is not added to the staging area 
 
 
-staged - a file is called staged if it is added to the staging area by using "git add <file name>"
+STAGED -> a file is called staged if it is added to the staging area by using "git add <file name>"
 
 
-committed - a file is commited if it is tracked and the changes done in it are to be stored permanently in a commit using "git commit -m "<commit message>"
+COMMITTED -> a file is commited if it is tracked and the changes done in it are to be stored permanently in a commit using "git commit -m "<commit message>"
+
+
+
+#IMPORTANCE of Git history 
+
+-> helpful in keeping a track of the changes done in the process of developing a software 
+
+-> necessary if there is any need to change any particular commit or changes done in the past .
+
+-> with the help of track of the history we can track the bugs and fix then in the future.
